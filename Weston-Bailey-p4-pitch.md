@@ -38,9 +38,11 @@ Examples repos:
 
 ### 2. & 3. What is your goal with this project?/Who is the user for your app?/What is the User Flow?
 
-To gain a foundational knowledge of machine learning and the use of tensorflow, and then apply it in a 'machine learning playground' style app for a user to interact with. 
+Personal goal: To gain a foundational knowledge of machine learning and the use of tensorflow.
 
-I would like to create a simple ts model in python and port it over to tensorflow.js so the a user could interact it in the browser.
+App goal: Apply tensorflow in a 'machine learning playground' style app for a user to interact with. 
+
+Overall plan: I would like to create a simple ts model in python and port it over to tensorflow.js so the a user could interact it in the browser.
 
 the deliverable of this project will be aimed at users who are interested in understanding machine learning by interacting with an ai directly by training it and seeing the results
 
@@ -71,7 +73,7 @@ Stretch goals would include:
 
 * It is my understanding so far that much of the work for creating an ai is deciding how to configure a model to work with a particular dataset and then grooming and formatting the dataset so that it can be used with the ML model. 
 
-* I don't have the understanding/expertise to even begin to do this with a dataset, I would like to use preformatted dataset such as one from the [Keras API](https://keras.io/api/datasets/). 
+* I don't have the understanding/expertise to even begin to do this with a dataset, I would like to use preformatted ML dataset such as one from the [Keras API](https://keras.io/api/datasets/). 
 
 2. the tensorflow versioning and compatibility is a complicated disaster:
 
