@@ -20,9 +20,9 @@ When trying to scope your P4 think to how much you were able to accomplish durin
 - React-Bootstrap-Table or another React Table Library to create dynamic tables based on a database you create and seed
 
 ## Pitch Guidelines
-Your P4 Project Pitches will be submitted via pull requets on this repo. *Fork and clone this repo. Write your markdown in a file in this repo. Push up, and submit a pull request to the original repo to submit*. The instructional staff will review your submissions and add feedback/close pull requests. 
+Your P4 Project Pitches will be submitted via pull requets on this repo. *Fork and clone this repo. Make a new file in this repo called `[YOUR NAME]-p4-pitch.md`, Write your markdown in that file. Push up, and submit a pull request to the original repo to submit*. The instructional staff will review your submissions and add feedback/close pull requests. 
 
-*Format for markdown for pitch:*
+*Format for pitch markdown:*
 * Name of app
 * Your name/team members
 * New tech you plan on using
